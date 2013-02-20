@@ -1,0 +1,3 @@
+import apptrigger
+apptrigger.main()
+
